@@ -18,4 +18,4 @@ PRODUCT_COPY_FILES += \
     vendor/firmware/zd1211/zd1211_uph:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/zd1211_uph \
     vendor/firmware/zd1211/zd1211_uphm:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/zd1211_uphm \
     vendor/firmware/zd1211/zd1211_uphr:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/zd1211_uphr \
-    vendor/firmware/zd1211/zd1211_ur:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/zd1211_ur \
+    vendor/firmware/zd1211/zd1211_ur:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/zd1211_ur
