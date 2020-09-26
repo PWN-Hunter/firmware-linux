@@ -105,3 +105,4 @@ PRODUCT_COPY_FILES += \
     vendor/firmware/atheros/ath6k/AR6004/hw1.3/fw-3.bin:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/ath6k/AR6004/hw1.3/fw-3.bin \
     vendor/firmware/atheros/ath6k/AR6004/hw1.2/bdata.bin:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/ath6k/AR6004/hw1.2/bdata.bin \
     vendor/firmware/atheros/ath6k/AR6004/hw1.2/fw-2.bin:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/ath6k/AR6004/hw1.2/fw-2.bin
+
